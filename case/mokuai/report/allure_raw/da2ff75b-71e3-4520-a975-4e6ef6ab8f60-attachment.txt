@@ -1,0 +1,2 @@
+当前运行环境为 http://49.235.92.12:9000
+{"msg":"sucess!","code":0,"data":[{"id":105,"name":"test","sex":"F","age":23,"mail":"222@qq.com","create_time":"2020-04-23"}]}
