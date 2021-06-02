@@ -36,5 +36,5 @@ selenium==3.141.0
 shellescape==3.8.1
 six==1.13.0
 Steganocrypto==0.0.3
-urllib3==1.25.7
+urllib3==1.26.5
 wcwidth==0.1.8
